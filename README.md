@@ -7,6 +7,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Features
 1- Top Headlines
+
 2- Categorized View
+
 3- Infinite Scrolling
+
 4- Responsive on all devices
+
+### Preview
+![Alt text](https://github.com/wal33dahmad/ENews-ClassBased-ReactApp/blob/main/src/enews.png)
